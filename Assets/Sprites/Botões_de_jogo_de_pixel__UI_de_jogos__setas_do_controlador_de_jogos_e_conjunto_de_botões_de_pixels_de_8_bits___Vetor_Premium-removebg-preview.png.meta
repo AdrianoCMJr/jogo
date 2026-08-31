@@ -1,0 +1,1006 @@
+fileFormatVersion: 2
+guid: 59813d002f0491a45a5e50c4b631e3ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_0"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 367
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd6b9d8df2d72b46977e657454505b3
+      internalID: -1765419141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_1"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 371
+        width: 81
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce52a2356e3ac248ba85d9c18966c89
+      internalID: 362695379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_2"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 130
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b0e8d569b9ad4e8947e6770e19be9
+      internalID: 67666999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_3"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 367
+        width: 115
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b635d36870877f742af302da431bf154
+      internalID: -274765482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_4"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 345
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4890d6925f65ac468bd59ace125eb6f
+      internalID: -2102670354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_5"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 321
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b59f935fda9e9242832b45496067267
+      internalID: 1364213322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_6"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 325
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1697ee25ac9f3a4d8ead31b7fb56c8c
+      internalID: 1853643445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_7"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 318
+        width: 122
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c96f28a7b05824cbdece4837eab0e2
+      internalID: 1937624515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_8"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 318
+        width: 104
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47153c68d14a4e84198e899becc31dfa
+      internalID: 1253569002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_9"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 259
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5e485253df58142a9b12c8aeb35237
+      internalID: -122871375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_10"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 276
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bddf5cead275a84f94a45bf4f59d495
+      internalID: -696827836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_11"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 279
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b9ceaf6b8c5b42ba9c54eb716a5cc
+      internalID: 308536086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_12"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 278
+        width: 122
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2061f8c93684540b23309d184a3a1b
+      internalID: -2116890549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_13"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 270
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d5e72fb0bd6f54da84341de148acde
+      internalID: -1513457255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_14"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 270
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fda02ebf8ac73f479e935114f929fcb
+      internalID: -969162006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_15"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 229
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a201604e6d5be548bb61e6f54d45d8e
+      internalID: -168979376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_16"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 229
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01167ba2e4cc034e86ee691b120fbc8
+      internalID: 1434476173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_17"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 229
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540f21d340c83b6419898d866d1a4e80
+      internalID: -1212071994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_18"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 229
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7ceff655172243a440d91b89992da
+      internalID: -1093318915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_19"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 230
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71ad9e662de22d47a77dbea36ebe241
+      internalID: 107125668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_20"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 230
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c309f99330324b74ca57cba5bdb0484a
+      internalID: -1993195144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_21"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 237
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ddafed8b41940469af74ac5db5f7fe
+      internalID: -729326719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_22"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 229
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9a8723d9649c44b5e73a4344b874a
+      internalID: 1961460713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_23"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 207
+        width: 144
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82c333bfa50d64e8ff748940a145fd
+      internalID: -1793151958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_24"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 174
+        width: 130
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ebe95e5f8d69419430a6754d1ddfe
+      internalID: 1295647221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_25"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 185
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa9c6ec306e32e48ab0faee20e46a83
+      internalID: -367942530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_26"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 137
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff4fdd179153e54aad92dd380e774db
+      internalID: 1309560612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_27"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 163
+        width: 144
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f363aed50967564b82f718f2ef660d9
+      internalID: 809365062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_28"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 125
+        width: 100
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2143fafd5eb947449f09d1fa44e2b4e
+      internalID: 372696175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_29"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 144
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c9608e91cdf884d8c3fd0633334d8b
+      internalID: 836798738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_30"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 118
+        width: 144
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3904e115f0924cb48b035e731d5d2e1a
+      internalID: 1476750961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_31"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 77
+        width: 133
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800969ed279db454e8677aa8d9b9fc33
+      internalID: 2100294577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_32"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 99
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe483b42b58fff4eb76cf564de55168
+      internalID: -1388183863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_33"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 28
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7292f51a3dee25d4bbb3fd57f81fe3a7
+      internalID: 218929816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_34"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 73
+        width: 144
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec68c4edb1a3e340a81fb06ddff2b89
+      internalID: 1855895276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_35"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 28
+        width: 177
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035703ac23d90f4da47f5b018c1cfdc
+      internalID: 693167543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_36"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 28
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355988cbd2bd3484ba28be7907fc0a4d
+      internalID: -960329003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_37"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 28
+        width: 144
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727ada2a4db68a140be6d15812a68fc7
+      internalID: -292949482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_0": -1765419141
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_1": 362695379
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_10": -696827836
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_11": 308536086
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_12": -2116890549
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_13": -1513457255
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_14": -969162006
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_15": -168979376
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_16": 1434476173
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_17": -1212071994
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_18": -1093318915
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_19": 107125668
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_2": 67666999
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_20": -1993195144
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_21": -729326719
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_22": 1961460713
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_23": -1793151958
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_24": 1295647221
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_25": -367942530
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_26": 1309560612
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_27": 809365062
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_28": 372696175
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_29": 836798738
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_3": -274765482
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_30": 1476750961
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_31": 2100294577
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_32": -1388183863
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_33": 218929816
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_34": 1855895276
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_35": 693167543
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_36": -960329003
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_37": -292949482
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_4": -2102670354
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_5": 1364213322
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_6": 1853643445
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_7": 1937624515
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_8": 1253569002
+      "Bot\xF5es_de_jogo_de_pixel__UI_de_jogos__setas_do_controlador_de_jogos_e_conjunto_de_bot\xF5es_de_pixels_de_8_bits___Vetor_Premium-removebg-preview_9": -122871375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
